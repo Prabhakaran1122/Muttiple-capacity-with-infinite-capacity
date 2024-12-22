@@ -12,28 +12,28 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![image](https://user-images.githubusercontent.com/103921593/203238035-1c8109bc-cbf2-4c77-baea-c5b682a752ef.png)
 
 ## Procedure :
-
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
+
+![Screenshot 2024-12-22 095555sm](https://github.com/user-attachments/assets/8c3c99ae-352c-4ae9-8a79-d0811dded961)
 
 
 ## Experiment:
 ![exp5 1](https://github.com/nithin-popuri7/Muttiple-capacity-with-infinite-capacity/assets/94154780/1d35f4d1-3104-44f4-8c5c-269d611eaee2)
 
 ![exp5 2](https://github.com/nithin-popuri7/Muttiple-capacity-with-infinite-capacity/assets/94154780/13d30585-0c48-4b29-be60-57aa39e77fbf)
-`
-`
-`
+![Screenshot 2024-12-22 095555sm](https://github.com/user-attachments/assets/52dbbf36-8ad3-4802-9688-3900e67591c1)
 
 ## Program:
 ```
 DEVELOPED BY : PRABHAKARAN P
 REGISTER NO : 24007060
 ```
-![Screenshot 2024-12-19 210110](https://github.com/user-attachments/assets/74ac9ee4-ec55-42bc-8521-fbd60d64610f)
+![Screenshot 2024-12-19 210110](https://github.com/user-attachments/assets/65f26151-c700-4c47-9180-25820285f649)
+
 
 
 ## Output :
-![Screenshot 2024-12-19 210219](https://github.com/user-attachments/assets/08ea688b-4905-487d-b34c-0a8347b3bfb6)
+![Screenshot 2024-12-19 210209](https://github.com/user-attachments/assets/d47509fe-376b-4257-bcd5-782e87e7518e)
 
 ## Result : 
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
